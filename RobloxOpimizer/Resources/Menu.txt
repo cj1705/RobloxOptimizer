@@ -1,0 +1,8 @@
+-------Roblox Optimizer-------
+Options:			
+
+	(1) Install
+	(2) Uninstall
+	(3) Exit
+
+------------------------------
